@@ -1,4 +1,6 @@
-CPAN CONTRIBUTIONS ARCHIVE
-==========================
+Archive of CPAN releases
+========================
 
-This repository contains all versions of all modules released by AUBERTG.
+A public archive of each distribution release I've made over time. This allows
+removing older versions from CPAN mirrors, while keeping them available here in
+case someone needs them.
